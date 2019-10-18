@@ -23,6 +23,9 @@ def bonus
   #code your solution here:
   epic_tragedy = {hero: "Romeo", status: "dead"}
   epic_tragedy = {heroine: "Juliet", status: "dead"}
+  
+  epic_tragedy[:hero]
+  epic_tragedy[:heroine]
 
 
   
